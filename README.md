@@ -14,4 +14,4 @@
 
 ## 📫 Contact
 - Email: hi020514@gmail.com
-- Blog: [yourblog.com](https://rose-day.tistory.com/)
+- Blog: (https://rose-day.tistory.com/)
