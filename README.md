@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=300&section=header&text=Hyein%27s%20GitHub&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Welcome&descAlignY=60&descAlign=50&descSize=20)
 
-# 👋 Hi there!
-
-I'm Hyein Choi, a passionate developer exploring full-stack projects, UX, and clean design.
+# 💖 Welcome to Hyein's GitHub!
+# 🚀 Building clean, impactful, and user-friendly products
 
 ## 🌟 Projects
 - 🎯 Wishboard – 버킷리스트 성취 독려 앱
