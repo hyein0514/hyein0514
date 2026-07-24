@@ -72,18 +72,14 @@ React·React Native 기반의 프론트엔드 연동 경험을 쌓았습니다.
 <br>
 
 ## 📌 Projects
-### 🏭 AIMS 
-[![Main Dashboard](https://img.shields.io/badge/Main-Repository-FF8FA3?style=flat-square&logo=github&logoColor=white)](https://github.com/hyein0514/AIMS-MainDashBoard)
-[![Assembly Dashboard](https://img.shields.io/badge/Assembly-Repository-FFB6C1?style=flat-square&logo=github&logoColor=white)](https://github.com/hyein0514/AIMS-AssemblyDashBoard)
+
+### 🏭 AIMS [![AIMS Main](https://img.shields.io/badge/AIMS_Main-Repository-FF8FA3?style=flat-square&logo=github&logoColor=white)](https://github.com/hyein0514/AIMS-MainDashBoard) [![AIMS Assembly](https://img.shields.io/badge/AIMS_Assembly-Repository-FFB6C1?style=flat-square&logo=github&logoColor=white)](https://github.com/hyein0514/AIMS-AssemblyDashBoard)
 
 > AI 기반 자동차 스마트팩토리 보안 관제 시스템
 
 - Kafka 기반 제조 이벤트 처리 및 서비스 간 데이터 연계
 - eRPN 기반 알림 우선순위 산정 및 WebSocket 실시간 알림 구현
 - **Role:** Backend Developer · Team Leader
-
-[![Main Dashboard](https://img.shields.io/badge/Main_Dashboard-Repository-FF8FA3?style=flat-square&logo=github&logoColor=white)](https://github.com/hyein0514/AIMS-MainDashBoard)
-[![Assembly Dashboard](https://img.shields.io/badge/Assembly_Dashboard-Repository-FFB6C1?style=flat-square&logo=github&logoColor=white)](https://github.com/hyein0514/AIMS-AssemblyDashBoard)
 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
@@ -100,7 +96,7 @@ React·React Native 기반의 프론트엔드 연동 경험을 쌓았습니다.
 
 <br>
 
-### 🌱 E:ON [![Repository](https://img.shields.io/badge/Repository-FF8FA3?style=flat-square&logo=github&logoColor=white)](https://github.com/hyein0514/E-on)
+### 🌱 E:ON [![E:ON](https://img.shields.io/badge/E%3AON-Repository-FF8FA3?style=flat-square&logo=github&logoColor=white)](https://github.com/hyein0514/E-on)
 
 > 청소년 대상 챌린지·커뮤니티 플랫폼
 
@@ -121,11 +117,11 @@ React·React Native 기반의 프론트엔드 연동 경험을 쌓았습니다.
 
 <br>
 
-### 💌 WishBoard [![Repository](https://img.shields.io/badge/Repository-FF8FA3?style=flat-square&logo=github&logoColor=white)](https://github.com/hyein0514/wishboard)
+### 💌 WishBoard [![WishBoard](https://img.shields.io/badge/WishBoard-Repository-FF8FA3?style=flat-square&logo=github&logoColor=white)](https://github.com/hyein0514/wishboard)
 
 > 버킷리스트 목표를 시각화하고 성취를 독려하는 자기계발 앱
 
-- React Native·Spring 기반 커뮤니티 즐겨찾기, 게시글 검색·조회, 글·댓글 작성 기능 구현
+- React Native·Spring Boot 기반 커뮤니티 즐겨찾기, 게시글 검색·조회, 글·댓글 작성 기능 구현
 - 라우팅 상태와 검색 필터 파라미터를 동기화하여 데이터 조회 정확도 개선
 - **Role:** Full-Stack Developer
 
@@ -144,6 +140,24 @@ React·React Native 기반의 프론트엔드 연동 경험을 쌓았습니다.
 
 <br>
 
+## 📂 Other Projects
+
+### 🏢 Hello HR [![Hello HR](https://img.shields.io/badge/Hello_HR-Repository-FF8FA3?style=flat-square&logo=github&logoColor=white)](https://github.com/hyein0514/Hello_Hr)
+
+> AI 자기소개서 분석과 연차 관리 기능을 제공하는 ERP 인사관리 시스템
+
+- Spring Boot 기반 인사·연차 관리 및 사내 업무 프로세스 구현
+
+<br>
+
+### ✈️ COSTRIP [![COSTRIP](https://img.shields.io/badge/COSTRIP-Repository-FF8FA3?style=flat-square&logo=github&logoColor=white)](https://github.com/hyein0514/CosTrip)
+
+> 여행 경비를 기록하고 소비 패턴을 분석하는 여행 가계부 서비스
+
+- React Native 기반 여행 지출 관리 및 소비 통계 기능 구현
+
+<br>
+
 ## 📜 Certifications
 
 | 취득일 | 자격증 | 발행처 |
@@ -158,7 +172,7 @@ React·React Native 기반의 프론트엔드 연동 경험을 쌓았습니다.
 ## 🏆 Awards
 
 | 수상 시기 | 수상 내역 | 주관·수여 기관 |
-| :---: | --- | --- |
+|:---:|---|---|
 | 2025.09 | 교내 소프트웨어경진대회 은상 — **E:ON** | 성신여자대학교 |
 | 2023.09 | 교내 소프트웨어경진대회 장려상 | 성신여자대학교 |
 | 3학년 1학기·4학년 1학기 | 성신장학금 성적우수 장학금 — **총 2회** | 성신여자대학교 |
