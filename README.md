@@ -39,6 +39,7 @@ React·React Native 기반의 프론트엔드 연동 경험을 쌓았습니다.
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </p>
 
 ### Database & Realtime
@@ -75,10 +76,12 @@ React·React Native 기반의 프론트엔드 연동 경험을 쌓았습니다.
 
 ### 🏭 AIMS [![AIMS Main](https://img.shields.io/badge/AIMS_Main-Repository-FF8FA3?style=flat-square&logo=github&logoColor=white)](https://github.com/hyein0514/AIMS-MainDashBoard) [![AIMS Assembly](https://img.shields.io/badge/AIMS_Assembly-Repository-FFB6C1?style=flat-square&logo=github&logoColor=white)](https://github.com/hyein0514/AIMS-AssemblyDashBoard)
 
-> AI 기반 자동차 스마트팩토리 보안 관제 시스템
+> AI 기반 자동차 스마트팩토리 제조 공정 이상탐지 및 통합 관제 시스템  
+> **SK쉴더스 지능형 애플리케이션 개발자 양성과정 최종 프로젝트**
 
 - Kafka 기반 제조 이벤트 처리 및 서비스 간 데이터 연계
 - eRPN 기반 알림 우선순위 산정 및 WebSocket 실시간 알림 구현
+- 팀장으로서 스크럼 회의 진행, 일정 조율 및 팀 내외 커뮤니케이션 수행
 - **Role:** Backend Developer · Team Leader
 
 <p>
@@ -102,6 +105,7 @@ React·React Native 기반의 프론트엔드 연동 경험을 쌓았습니다.
 
 - Node.js·Express 기반 REST API와 MySQL 데이터 처리
 - 트랜잭션을 적용한 다중 테이블 저장과 챌린지 운영 정책 개발
+- 챌린지 신청 및 관리자 승인·거절을 포함한 참여 관리 프로세스 구현
 - **Role:** Full-Stack Developer
 
 <p>
@@ -123,6 +127,7 @@ React·React Native 기반의 프론트엔드 연동 경험을 쌓았습니다.
 
 - React Native·Spring Boot 기반 커뮤니티 즐겨찾기, 게시글 검색·조회, 글·댓글 작성 기능 구현
 - 라우팅 상태와 검색 필터 파라미터를 동기화하여 데이터 조회 정확도 개선
+- Figma UI 설계부터 프론트엔드·백엔드 개발 및 API 연동까지 수행
 - **Role:** Full-Stack Developer
 
 <p>
@@ -144,7 +149,8 @@ React·React Native 기반의 프론트엔드 연동 경험을 쌓았습니다.
 
 ### 🏢 Hello HR [![Hello HR](https://img.shields.io/badge/Hello_HR-Repository-FF8FA3?style=flat-square&logo=github&logoColor=white)](https://github.com/hyein0514/Hello_Hr)
 
-> AI 자기소개서 분석과 연차 관리 기능을 제공하는 ERP 인사관리 시스템
+> AI 자기소개서 분석과 연차 관리 기능을 제공하는 ERP 인사관리 시스템  
+> **SK쉴더스 지능형 애플리케이션 개발자 양성과정 미니 프로젝트**
 
 - Spring Boot 기반 인사·연차 관리 및 사내 업무 프로세스 구현
 
@@ -152,10 +158,42 @@ React·React Native 기반의 프론트엔드 연동 경험을 쌓았습니다.
 
 ### ✈️ COSTRIP [![COSTRIP](https://img.shields.io/badge/COSTRIP-Repository-FF8FA3?style=flat-square&logo=github&logoColor=white)](https://github.com/hyein0514/CosTrip)
 
-> 여행 경비를 기록하고 소비 패턴을 분석하는 여행 가계부 서비스
+> 여행 경비를 기록하고 소비 패턴을 분석하는 여행 가계부 서비스  
+> **SK쉴더스 지능형 애플리케이션 개발자 양성과정 미니 프로젝트**
 
 - React Native 기반 여행 지출 관리 및 소비 통계 기능 구현
 
+<br>
+
+## 🎓 Education
+
+| 기간 | 기관·과정 | 상태 | 주요 내용 |
+|:---:|---|:---:|---|
+| 2021.03 ~ 2026.02 | **성신여자대학교 컴퓨터공학과** | 졸업 | 자료구조, 알고리즘, 데이터베이스, 운영체제 등 컴퓨터공학 전공 이수 및 팀 프로젝트 수행 |
+| 2026.01 ~ 2026.07 | **SK쉴더스 지능형 애플리케이션 개발자 양성과정 5기** | 수료 | Python·React·Spring Boot 기반 애플리케이션 개발 및 AWS 클라우드 환경의 설계·배포 과정 학습 |
+
+<br>
+
+### SK쉴더스 주요 교육 내용
+
+| 교육 분야 | 주요 학습 내용 |
+|---|---|
+| Backend | Java 객체지향 프로그래밍, Spring Boot REST API, Spring Security·JWT, JPA |
+| Frontend | React 기반 UI 개발 및 프론트엔드·백엔드 API 연동 |
+| Data | Python 기반 데이터 처리, MySQL 데이터베이스 설계 및 연동 |
+| Realtime | Kafka 이벤트 스트리밍, Redis 캐시, SockJS·STOMP 기반 WebSocket 통신 |
+| Cloud & DevOps | Docker, Kubernetes, AWS 기반 클라우드 환경 구성 및 배포 |
+| Project | 요구사항 분석, 시스템 설계, 협업 개발, 테스트 및 프로젝트 발표 |
+
+<br>
+
+### SK쉴더스 교육과정 프로젝트
+
+| 구분 | 프로젝트 | 내용 |
+|:---:|---|---|
+| 미니 프로젝트 | **COSTRIP** | 여행 지출 기록 및 소비 패턴 분석 서비스 |
+| 미니 프로젝트 | **Hello HR** | AI 자기소개서 분석과 연차 관리 기능을 제공하는 ERP 인사관리 시스템 |
+| 최종 프로젝트 | **AIMS** | 제조 공정 이상탐지 및 실시간 통합 관제 시스템 |
 <br>
 
 ## 📜 Certifications
